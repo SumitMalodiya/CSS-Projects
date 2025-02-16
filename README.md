@@ -27,12 +27,12 @@ This project is a responsive website design using CSS Grid and Flexbox. The site
 
 ## project1:
 # Buttons
--       This project presents a versatile collection of CSS buttons designed with various styles and animations. Its purpose is to provide web developers with 
-        ready-to-use button designs that enhance the visual appeal and functionality of their web applications. The buttons are crafted using pure CSS, ensuring 
-        compatibility and ease of integration into any project. With a focus on aesthetics and user experience, these buttons are perfect for adding a polished 
-        touch to your web pages.
+This project presents a versatile collection of CSS buttons designed with various styles and animations. Its purpose is to provide web developers with 
+ready-to-use button designs that enhance the visual appeal and functionality of their web applications. The buttons are crafted using pure CSS, ensuring 
+compatibility and ease of integration into any project. With a focus on aesthetics and user experience, these buttons are perfect for adding a polished 
+touch to your web pages.
 -   ### Example:
-You can view the deployed project [here](http://127.0.0.1:5501/Buttons/index.html).
+You can view the deployed project (http://127.0.0.1:5501/Buttons/index.html).
 
 ## project2:
 # Hambergur-menu-bar
