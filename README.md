@@ -33,7 +33,7 @@ compatibility and ease of integration into any project. With a focus on aestheti
 touch to your web pages.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://127.0.0.1:5501/Buttons/index.html).
+You can view the deployed project here [Link to the project] (http://192.168.0.108:5501/Buttons/index.html).
 
 ## project2:
 # Hambergur-menu-bar
