@@ -43,7 +43,7 @@ You can view the deployed project [here](https://sumitmalodiya.github.io/CSS-Pro
  styling of the hamburger menu, ensuring a lightweight and efficient implementation.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Hambergur-menu-bar/).
+You can view the deployed project here [Link to the project](https://sumitmalodiya.github.io/CSS-Projects/Hambergur-menu-bar/).
 
 ## project3:
 # Music clone
@@ -53,7 +53,7 @@ favorite songs and playlists. This project aims to demonstrate skills in fronten
 interactivity, and possibly backend integration for handling user data and music files.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Music%20clone/).
+You can view the deployed project here [Link to the project](https://sumitmalodiya.github.io/CSS-Projects/Music%20clone/).
 
 ## project4:
 # Pricing cards
@@ -63,7 +63,7 @@ features, and benefits in a clear and attractive manner, helping users make info
 pricing cards look great on all devices, from desktops to mobile phones.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Pricing%20cards/).
+You can view the deployed project here [Link to the project](https://sumitmalodiya.github.io/CSS-Projects/Pricing%20cards/).
 
 ## project5:
 # Product-cards
@@ -73,7 +73,7 @@ descriptions, prices, and call-to-action buttons. The project emphasizes a clean
 functional. Additionally, the cards are responsive, adapting seamlessly to different screen sizes and devices.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Product-cards/).
+You can view the deployed project here [Link to the project](https://sumitmalodiya.github.io/CSS-Projects/Product-cards/).
 
 ## project6:
 # Sidebar-menu
@@ -83,7 +83,7 @@ offering a convenient and organized way to navigate through different sections o
 responsive design that ensures the menu adapts beautifully to various screen sizes and devices.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Sidebar-menu/).
+You can view the deployed project here [Link to the project](https://sumitmalodiya.github.io/CSS-Projects/Sidebar-menu/).
 
 ## project7:
 # Web-page-design
@@ -94,4 +94,4 @@ ensuring that the web page looks great and functions well across various devices
 understanding and implementing modern web design practices.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/web-page-design/).
+You can view the deployed project here [Link to the project](https://sumitmalodiya.github.io/CSS-Projects/web-page-design/).
