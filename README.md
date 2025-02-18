@@ -33,7 +33,7 @@ compatibility and ease of integration into any project. With a focus on aestheti
 touch to your web pages.
 
 -   ### Example:
-You can view the deployed project [here] (https://sumitmalodiya.github.io/CSS-Projects/Buttons/).
+You can view the deployed project [here](https://sumitmalodiya.github.io/CSS-Projects/Buttons/).
 
 ## project2:
 # Hambergur-menu-bar
