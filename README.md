@@ -33,7 +33,7 @@ compatibility and ease of integration into any project. With a focus on aestheti
 touch to your web pages.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5501/Buttons/index.html).
+You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Buttons/).
 
 ## project2:
 # Hambergur-menu-bar
@@ -43,7 +43,7 @@ You can view the deployed project here [Link to the project] (http://192.168.0.1
  styling of the hamburger menu, ensuring a lightweight and efficient implementation.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5501/Hambergur-menu-bar/index.html).
+You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Hambergur-menu-bar/).
 
 ## project3:
 # Music clone
@@ -53,7 +53,7 @@ favorite songs and playlists. This project aims to demonstrate skills in fronten
 interactivity, and possibly backend integration for handling user data and music files.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5501/Music%20clone/index.html).
+You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Music%20clone/).
 
 ## project4:
 # Pricing cards
@@ -63,7 +63,7 @@ features, and benefits in a clear and attractive manner, helping users make info
 pricing cards look great on all devices, from desktops to mobile phones.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5501/Pricing%20cards/index.html).
+You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Pricing%20cards/).
 
 ## project5:
 # Product-cards
@@ -73,7 +73,7 @@ descriptions, prices, and call-to-action buttons. The project emphasizes a clean
 functional. Additionally, the cards are responsive, adapting seamlessly to different screen sizes and devices.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5501/Product-cards/index.html).
+You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Product-cards/).
 
 ## project6:
 # Sidebar-menu
@@ -83,7 +83,7 @@ offering a convenient and organized way to navigate through different sections o
 responsive design that ensures the menu adapts beautifully to various screen sizes and devices.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5501/Sidebar-menu/index.html).
+You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/Sidebar-menu/).
 
 ## project7:
 # Web-page-design
@@ -94,4 +94,4 @@ ensuring that the web page looks great and functions well across various devices
 understanding and implementing modern web design practices.
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://192.168.0.108:5501/web-page-design/index.html).
+You can view the deployed project here [Link to the project] (https://sumitmalodiya.github.io/CSS-Projects/web-page-design/).
